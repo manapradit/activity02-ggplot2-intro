@@ -4,6 +4,7 @@ author: "Kanyanee Manapradit"
 output: github_document
 ---
 
+Test 
 In the R code chunk below, I am setting a global option for this `.Rmd` report.
 For the time being you can, "pay not attention to the code between lines 10 and 12."
 
